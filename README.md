@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mustafa Oğuzhan Dal</h1>
 <h3 align="center">I'm a Backend developer living in Turkey</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhandal&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhandal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzhandal" alt="oguzhandal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tenten7k" target="blank"><img src="https://img.shields.io/twitter/follow/tenten7k?logo=twitter&style=for-the-badge" alt="tenten7k" /></a> </p>
 
 - I’m currently working on Test Automation and Java Backend projects. [FinrotaUI with Java Selenium Framework](https://github.com/Afsimsek25/FinrotaUI)
 

@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa Oğuzhan Dal</h1>
 <h3 align="center">I'm a Backend developer living in Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzhandal&label=Profile%20views&color=0e75b6&style=flat" alt="oguzhandal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzhandal" alt="oguzhandal" /></a> </p>
 

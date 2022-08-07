@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oguzhandal" alt="oguzhandal" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tentne7k" target="blank"><img src="https://img.shields.io/twitter/follow/tentne7k?logo=twitter&style=for-the-badge" alt="tentne7k" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tenten7k" target="blank"><img src="https://img.shields.io/twitter/follow/tenten7k?logo=twitter&style=for-the-badge" alt="tenten7k" /></a> </p>
 
 - I’m currently working on Test Automation and Java Backend projects. [FinrotaUI with Java Selenium Framework](https://github.com/Afsimsek25/FinrotaUI)
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tentne7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tentne7k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/moguzhandal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/moguzhandal/" height="30" width="40" /></a>
+<a href="https://twitter.com/tenten7k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tenten7k" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/moguzhandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moguzhandal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/daloguz111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/daloguz111" height="30" width="40" /></a>
 </p>
 

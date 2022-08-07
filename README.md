@@ -9,7 +9,7 @@
 
 - I’m currently working on Test Automation and Java Backend projects. [FinrotaUI with Java Selenium Framework](https://github.com/Afsimsek25/FinrotaUI)
 
-- 🌱 I'm currently learning Java Spring framework and React **istanbulegitimakademi**
+- 🌱 I'm currently learning Java Spring framework and React **https://istanbulegitimakademi.com/**
 
 - I'm currently working on Java Backend Microservice projects. [https://github.com/oguzhandal/MicroservicesProject](https://github.com/oguzhandal/MicroservicesProject)
 
@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oguzhandal&show_icons=true&locale=en" alt="oguzhandal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oguzhandal&" alt="oguzhandal" /></p>
-
